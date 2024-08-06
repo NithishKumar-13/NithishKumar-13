@@ -6,8 +6,6 @@
 ## 👨‍💻&nbsp; About me
 
  😄 Pronouns : He/him. <br />
- 🎓 I'm currently studying Computer Science and Engineering at Chennai Institute of Technology, Chennai (2019-2023). <br />
- 🌱 I'm currently learning React native. <br />
  🏏 When I'm not coding, I play cricket and watch movies. <br />
  🤝 I'm looking to collaborate on **frontend projects**. <br />
  📧 You can email me at **nithishpadma@gmail.com**. I'll try my best to respond as soon as possible. <br />
