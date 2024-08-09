@@ -1,8 +1,6 @@
 <h1 align='center'>Hi 👋, I'm Nithish</h1>
 <h3 align='center'>A Passionate Software Developer from India</h3>
 
-<hr />
-
 ## 👨‍💻&nbsp; About me
 
  😄 Pronouns : He/him. <br />
