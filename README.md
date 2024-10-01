@@ -4,7 +4,6 @@
 
  😄 Pronouns : He/him. <br />
  🏏 When I'm not coding, I play cricket and watch movies. <br />
- 🤝 I'm looking to collaborate on **frontend projects**. <br />
  📧 You can email me at **nithishpadma@gmail.com**. I'll try my best to respond as soon as possible. <br />
 
 ### 🛠️&nbsp;  Tools and Tech
